@@ -1,4 +1,6 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Naama — I built a password manager during an internship, which either means I'm very responsible or very worried about someone reading my diary (it's the second one). I'm also First Aid certified with the Red Crescent, so I'm technically more qualified to save your life than to fix your merge conflicts. If your code is dying, I can at least keep it comfortable while we wait for Stack Overflow.</h2>
+<h2 data-importer="text" align="left">Hi 👋! I'm Naama</h2>
+
+I once built a password manager during an internship, which either means I'm very responsible or very worried about someone reading my diary (it's the second one). I'm also First Aid certified with the Red Crescent, so I'm technically more qualified to save your life than to fix your merge conflicts. If your code is dying, I can at least keep it comfortable while we wait for Stack Overflow.
 
 ###
 
